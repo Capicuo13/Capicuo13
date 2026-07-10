@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile! 👋
 
-I'm Samuel, a final-year Computer Engineering student at Universidad Pablo de Olavide. My core interests lie in Database Architecture, Cloud Computing, and Information Systems. 
+I'm Samuel, a final-year Computer Engineering student at Universidad Pablo de Olavide. My core interests lie in Database Architecture, Cloud Computing, and Information Systems.
 
 I really enjoy translating academic concepts into practical, scalable software solutions. Right now, my main focus is on mastering backend development and expanding my knowledge of AWS ecosystems to build robust, enterprise-grade applications.
 
@@ -29,7 +29,7 @@ I really enjoy translating academic concepts into practical, scalable software s
 
 **Areas of Expertise:** Database Architecture | Software Engineering | Computer Networks | Operating Systems
 
---- 
+---
 
 ## 📊 GitHub Stats
 
@@ -47,5 +47,5 @@ I really enjoy translating academic concepts into practical, scalable software s
 
 I'm always open to discussing new technologies, system architecture challenges, or potential professional opportunities.
 
-* **LinkedIn:** [https://www.linkedin.com/in/samuel-castillo-277b723b4/]
+* **LinkedIn:** [Samuel Castillo](https://www.linkedin.com/in/samuel-castillo-277b723b4/)
 * **Email:** samuelcastillobensalem@gmail.com
