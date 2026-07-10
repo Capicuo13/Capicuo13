@@ -29,7 +29,7 @@ I really enjoy translating academic concepts into practical, scalable software s
 
 **Areas of Expertise:** Database Architecture | Software Engineering | Computer Networks | Operating Systems
 
----
+--- 
 
 ## 📊 GitHub Stats
 
