@@ -34,11 +34,11 @@ I really enjoy translating academic concepts into practical, scalable software s
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Capicuo13&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  
   <br/>
   <img src="https://streak-stats.demolab.com?user=Capicuo13&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Capicuo13&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+  
 </div>
 
 ---
