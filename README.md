@@ -1,51 +1,48 @@
-# Welcome to my GitHub profile! 👋
+# Hey, I'm Samuel! 👋
 
-I'm Samuel, a final-year Computer Engineering student at Universidad Pablo de Olavide. My core interests lie in Database Architecture, Cloud Computing, and Information Systems.
+I'm still studying Computer Engineering at **Universidad Pablo de Olavide** (Seville), currently in my last year (2023–2027) and specialising in Information Systems. I'm really into databases, cloud computing and how information systems are put together.
 
-I really enjoy translating academic concepts into practical, scalable software solutions. Right now, my main focus is on mastering backend development and expanding my knowledge of AWS ecosystems to build robust, enterprise-grade applications.
+What I enjoy most is taking the stuff I learn in class and turning it into real, working software. These days I'm mostly focused on backend development and getting deeper into AWS.
 
-## 🎯 Current Focus & Goals
+## 🎯 What I'm up to
 
-* **📚 Academic Path:** Completing my degree in Computer Engineering (2023-2027) with a specialization in Information Systems.
-* **💡 Hands-on Projects:** Building scalable systems, including an Odoo-based management platform, focusing on systems architecture and data flow optimization.
-* **🌐 Cloud Journey:** Preparing for the AWS Cloud Practitioner certification.
-* **⚙️ Tech Deep Dive:** Continuously improving my skills in Database Design, Software Engineering methodologies, and backend logic.
+* **📚 Uni:** finishing my degree in Computer Engineering (Information Systems track), with my final-year project (TFG) on AI.
+* **💡 Projects:** building things to learn by doing, like an Odoo-based management platform ([UPOMAX](https://github.com/Capicuo13/UPOMAX)), with a focus on system architecture and how data flows.
+* **🌐 Cloud:** I'm now **AWS Certified Cloud Practitioner** ☁️ and keep learning more of the AWS ecosystem.
+* **⚙️ Always learning:** database design, software engineering practices and backend logic.
 
-## 💻 Tech Stack
+## 💻 Tech stack
 
-**Languages**  
+### Languages
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-**Tools & Technologies**  
+### Tools & technologies
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-%23714B67.svg?style=for-the-badge&logo=odoo&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-**Areas of Expertise:** Database Architecture | Software Engineering | Computer Networks | Operating Systems
+### Areas I'm into
 
----
+Database Architecture · Software Engineering · Computer Networks · Operating Systems
 
-## 📊 GitHub Stats
+## 📊 GitHub stats
 
 <div align="center">
-  
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Capicuo13&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  
+  <img src="https://streak-stats.demolab.com?user=Capicuo13&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
----
+## 📬 Let's connect
 
-## 📬 Let's Connect
+Always happy to chat about tech, system architecture or any opportunity that comes up, so feel free to reach out!
 
-I'm always open to discussing new technologies, system architecture challenges, or potential professional opportunities.
-
-* **LinkedIn:** [Samuel Castillo](https://www.linkedin.com/in/samuel-castillo-277b723b4/)
-* **Email:** samuelcastillobensalem@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel_Castillo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-castillo-277b723b4/)
+[![Email](https://img.shields.io/badge/Email-samuelcastillobensalem%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelcastillobensalem@gmail.com)
